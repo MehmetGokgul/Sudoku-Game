@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_table" xml:lang="en-US">
+<title>Table Class Reference</title>
+<indexterm><primary>Table</primary></indexterm>
+<para>
+<computeroutput>#include &lt;table.h&gt;</computeroutput>
+</para>
+Collaboration diagram for Table:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_table_1a1b69b23a2ca88f72c6d3a97afeb3318b">Table</link> (int x)</para>
+</listitem>
+            <listitem><para><link linkend="_class_table_1a9a559f2e7beb37b511ee9f88873164f8">~Table</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_class_table_1ac6800bc82bb194cb4860d42e871be07f">setRandomNumber</link> (int sizeRandomNumber)</para>
+</listitem>
+            <listitem><para>int <link linkend="_class_table_1a390f0bfe4b07a1f15738d62d2771ced0">isFinish</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_class_table_1a7673122bfde67ea451f8533e2ebe0012">addNumber</link> (int i, int j, int number)</para>
+</listitem>
+            <listitem><para>void <link linkend="_class_table_1a1f328965462fce6ba8cc7c4176192ce3">deleteNumber</link> (int i, int j)</para>
+</listitem>
+            <listitem><para>int <link linkend="_class_table_1a63bc5f075894be921aaf34e419a70f75">isSuitable</link> (int i, int j, int number)</para>
+</listitem>
+            <listitem><para>int <link linkend="_class_table_1a7466cb0cb0d7ee847be23e4d0d588c3c">getTable</link> (int i, int j)</para>
+</listitem>
+            <listitem><para>void <link linkend="_class_table_1a04e292a543a8f0c0988f13d555097a49">displayTable</link> () const</para>
+</listitem>
+            <listitem><para>void <link linkend="_class_table_1ad572f8e3d2f7bfebfd2b3db724c1b350">displayTable</link> (int limit) const</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_table_1a1b69b23a2ca88f72c6d3a97afeb3318b"/><section>
+    <title>Table()</title>
+<indexterm><primary>Table</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>Table</secondary></indexterm>
+<para><computeroutput>Table::Table (int x)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table_a1b69b23a2ca88f72c6d3a97afeb3318b_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_class_table_1a9a559f2e7beb37b511ee9f88873164f8"/><section>
+    <title>~Table()</title>
+<indexterm><primary>~Table</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>~Table</secondary></indexterm>
+<para><computeroutput>Table::~Table ( )</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_table_1a7673122bfde67ea451f8533e2ebe0012"/><section>
+    <title>addNumber()</title>
+<indexterm><primary>addNumber</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>addNumber</secondary></indexterm>
+<para><computeroutput>int Table::addNumber (int i, int j, int number)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table_a7673122bfde67ea451f8533e2ebe0012_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_class_table_1a1f328965462fce6ba8cc7c4176192ce3"/><section>
+    <title>deleteNumber()</title>
+<indexterm><primary>deleteNumber</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>deleteNumber</secondary></indexterm>
+<para><computeroutput>void Table::deleteNumber (int i, int j)</computeroutput></para></section>
+<anchor xml:id="_class_table_1a04e292a543a8f0c0988f13d555097a49"/><section>
+    <title>displayTable()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>displayTable</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>displayTable</secondary></indexterm>
+<para><computeroutput>void Table::displayTable ( ) const</computeroutput></para></section>
+<anchor xml:id="_class_table_1ad572f8e3d2f7bfebfd2b3db724c1b350"/><section>
+    <title>displayTable()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>displayTable</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>displayTable</secondary></indexterm>
+<para><computeroutput>void Table::displayTable (int limit) const</computeroutput></para></section>
+<anchor xml:id="_class_table_1a7466cb0cb0d7ee847be23e4d0d588c3c"/><section>
+    <title>getTable()</title>
+<indexterm><primary>getTable</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>getTable</secondary></indexterm>
+<para><computeroutput>int Table::getTable (int i, int j)</computeroutput></para></section>
+<anchor xml:id="_class_table_1a390f0bfe4b07a1f15738d62d2771ced0"/><section>
+    <title>isFinish()</title>
+<indexterm><primary>isFinish</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>isFinish</secondary></indexterm>
+<para><computeroutput>int Table::isFinish ( )</computeroutput></para></section>
+<anchor xml:id="_class_table_1a63bc5f075894be921aaf34e419a70f75"/><section>
+    <title>isSuitable()</title>
+<indexterm><primary>isSuitable</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>isSuitable</secondary></indexterm>
+<para><computeroutput>int Table::isSuitable (int i, int j, int number)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table_a63bc5f075894be921aaf34e419a70f75_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_class_table_1ac6800bc82bb194cb4860d42e871be07f"/><section>
+    <title>setRandomNumber()</title>
+<indexterm><primary>setRandomNumber</primary><secondary>Table</secondary></indexterm>
+<indexterm><primary>Table</primary><secondary>setRandomNumber</secondary></indexterm>
+<para><computeroutput>void Table::setRandomNumber (int sizeRandomNumber)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table_ac6800bc82bb194cb4860d42e871be07f_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_table_ac6800bc82bb194cb4860d42e871be07f_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following files:</para>
+<link linkend="_table_8h">table.h</link><link linkend="_table_8cpp">table.cpp</link></section>
+</section>

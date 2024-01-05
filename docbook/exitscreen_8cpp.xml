@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_exitscreen_8cpp" xml:lang="en-US">
+<title>exitscreen.cpp File Reference</title>
+<indexterm><primary>exitscreen.cpp</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &quot;exitscreen.h&quot;<?linebreak?>#include &quot;ui_exitscreen.h&quot;<?linebreak?>#include &quot;mainwindow.h&quot;<?linebreak?></programlisting>Include dependency graph for exitscreen.cpp:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="exitscreen_8cpp__incl.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>

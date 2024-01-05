@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_exit_screen" xml:lang="en-US">
+<title>ExitScreen Class Reference</title>
+<indexterm><primary>ExitScreen</primary></indexterm>
+<para>
+<computeroutput>#include &lt;exitscreen.h&gt;</computeroutput>
+</para>
+Inheritance diagram for ExitScreen:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_exit_screen__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for ExitScreen:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_exit_screen__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_exit_screen_1af0b69bb318ae1845c6d2576ff63c3a2c">ExitScreen</link> (QWidget *parent=nullptr)</para>
+</listitem>
+            <listitem><para><link linkend="_class_exit_screen_1a0a872ada7163866bd041225bea62da41">~ExitScreen</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_class_exit_screen_1a8abeb6ddf453c54999ddd0eb70176ab8">setValue</link> (int time, QString massage)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_exit_screen_1af0b69bb318ae1845c6d2576ff63c3a2c"/><section>
+    <title>ExitScreen()</title>
+<indexterm><primary>ExitScreen</primary><secondary>ExitScreen</secondary></indexterm>
+<indexterm><primary>ExitScreen</primary><secondary>ExitScreen</secondary></indexterm>
+<para><computeroutput>ExitScreen::ExitScreen (QWidget * parent = <computeroutput>nullptr</computeroutput>
+)<computeroutput>[explicit]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_class_exit_screen_1a0a872ada7163866bd041225bea62da41"/><section>
+    <title>~ExitScreen()</title>
+<indexterm><primary>~ExitScreen</primary><secondary>ExitScreen</secondary></indexterm>
+<indexterm><primary>ExitScreen</primary><secondary>~ExitScreen</secondary></indexterm>
+<para><computeroutput>ExitScreen::~ExitScreen ( )</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_exit_screen_1a8abeb6ddf453c54999ddd0eb70176ab8"/><section>
+    <title>setValue()</title>
+<indexterm><primary>setValue</primary><secondary>ExitScreen</secondary></indexterm>
+<indexterm><primary>ExitScreen</primary><secondary>setValue</secondary></indexterm>
+<para><computeroutput>void ExitScreen::setValue (int time, QString massage)</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following files:</para>
+<link linkend="_exitscreen_8h">exitscreen.h</link><link linkend="_exitscreen_8cpp">exitscreen.cpp</link></section>
+</section>

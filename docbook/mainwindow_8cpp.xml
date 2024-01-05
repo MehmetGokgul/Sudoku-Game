@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_mainwindow_8cpp" xml:lang="en-US">
+<title>mainwindow.cpp File Reference</title>
+<indexterm><primary>mainwindow.cpp</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &quot;mainwindow.h&quot;<?linebreak?>#include &quot;./ui_mainwindow.h&quot;<?linebreak?>#include &quot;game.h&quot;<?linebreak?></programlisting>Include dependency graph for mainwindow.cpp:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="mainwindow_8cpp__incl.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>

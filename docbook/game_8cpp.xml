@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_game_8cpp" xml:lang="en-US">
+<title>game.cpp File Reference</title>
+<indexterm><primary>game.cpp</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &quot;game.h&quot;<?linebreak?>#include &quot;ui_game.h&quot;<?linebreak?>#include &lt;qtimer.h&gt;<?linebreak?>#include &quot;exitscreen.h&quot;<?linebreak?></programlisting>Include dependency graph for game.cpp:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="game_8cpp__incl.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="_game_8cpp_1a4bb30e35f9a79f434f2da5289015a425">getLastTwoInt</link> (std::string tmp)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="_game_8cpp_1a4bb30e35f9a79f434f2da5289015a425"/><section>
+    <title>getLastTwoInt()</title>
+<indexterm><primary>getLastTwoInt</primary><secondary>game.cpp</secondary></indexterm>
+<indexterm><primary>game.cpp</primary><secondary>getLastTwoInt</secondary></indexterm>
+<para><computeroutput>int getLastTwoInt (std::string tmp)</computeroutput></para></section>
+</section>
+</section>
