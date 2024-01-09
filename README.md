@@ -30,4 +30,7 @@ Compile the project using the suitable build configuration.
 Execute the executable file to initiate the application.
 
 ## Contributors
-22050151040 Mehmet Gökgül 
+- 22050151040 Mehmet Gökgül: Gui, Game class, Table class and Doxygen documantation.
+- 23050151001 Emirhan Akbaş: Game class, Table class and Main class.
+- 20050111053 Furkan Macit: Game class, Table class and Exitscreen class.
+- 20050111063 Ela Aydın: Gui, Table class and Mainwindow class.
