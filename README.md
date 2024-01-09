@@ -1,5 +1,9 @@
 # Sudoku-Game
-The project is a Sudoku game developed in ""C++"" with a graphical interface designed using the ""Qt framework"". We created for OOP course.
+The project is a Sudoku game developed in 
+""C++""
+with a graphical interface designed using the 
+""Qt framework""
+. We created for OOP course.
 
 ## Overview
 The game logic involves placing numbers in cells based on Sudoku rules. Players can choose difficulty levels, and an error counter tracks incorrect entries. Three hint options are available for player assistance during the game.
