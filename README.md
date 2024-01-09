@@ -20,8 +20,8 @@ Initializes the game table and sets random numbers based on a provided size.
 Provides methods to display the current state of the table (with or without error limits), check if the game is finished, validate number placements, and retrieve table values at specific positions.
 
 ## Getting Started
-1.Install Qt 
-2.Establish a C++ development environment.
+- 1.Install Qt 
+- 2.Establish a C++ development environment.
 
 ## Building and Running:
 
